@@ -1,12 +1,12 @@
 package latihan.format;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : Implementasi Formatting
+ */
 public class Formatting {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : Implementasi Formatting
-     */
+	
 	public static void main(String[] args) {
         int i = 3456764;
         int iMinus = -i;
